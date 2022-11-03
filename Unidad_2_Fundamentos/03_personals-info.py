@@ -12,4 +12,4 @@ age = input ("¿Cuantos años tienes ?")
 sapace = " "
 
 
-print ("Su nombre es: "+ space + name + space +print "su apellido es: "+ space + lastn +space+ print"tu ubicacion es de: "+ space + location +space+ print" tienes "+space + age +space+ print "años.")
+print ("Su nombre es: "+ space + name + space + print ("su apellido es: ")+ space + lastn +space+ print("tu ubicacion es de: ")+ space + location +space+ print(" tienes "+)space + age +space+ print ("años."))
