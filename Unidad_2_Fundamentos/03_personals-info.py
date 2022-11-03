@@ -8,8 +8,8 @@ Actividad: Cree un script que solicite 4 datos, como: nombre,apellido,ubicacion 
 firstName = input ("¿Cual es tu nombre ? ")
 lastName = input ("¿Cual es tu apellido ?")
 location = input ("¿Cual es tu ubicacion ?")
-age = input ("¿Cuantos años ties ?")
+age = input ("¿Cuantos años tienes ?")
 sapace = " "
 
 
-print("Hola!", firstName, lastName, "from", location, "from", age, "years")
+print ("Su nombre es: "+ space + name + space +"su apellido es: "+ space + lastn +space+ "tu ubicacion es de: "+ space + location +space+ " tienes "+space + age +space+ "años.")
